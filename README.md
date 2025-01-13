@@ -2,9 +2,9 @@
 Here are some interesting papers in speech field which I collected, may they help you.
 ## Update Project
 
-:heavy_check_mark: Biadsy, Fadi, et al. "**Zero-shot Cross-lingual Voice Transfer for TTS.**" arXiv preprint arXiv:2409.13910 (2024). [[Paper]](https://arxiv.org/pdf/2409.13910)
+:heavy_check_mark: Mancusi, Michele, et al. "**Latent Diffusion Bridges for Unsupervised Musical Audio Timbre Transfer.**" arXiv preprint arXiv:2409.06096 (2024). [[Paper]](https://arxiv.org/abs/2409.06096) [[Project]](https://github.com/sony/diffusion-timbre-transfer)
 
-:heavy_check_mark: "**SEED-VC: Zero-shot voice conversion trained according to the scheme described in SEED-TTS.**". [[Project]](https://github.com/Plachtaa/seed-vc)
+:heavy_check_mark: Biadsy, Fadi, et al. "**Zero-shot Cross-lingual Voice Transfer for TTS.**" arXiv preprint arXiv:2409.13910 (2024). [[Paper]](https://arxiv.org/pdf/2409.13910)
 
 ## Overview
 
